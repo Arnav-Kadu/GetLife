@@ -1,0 +1,7 @@
+name: 'Quote workflow'
+author: 'Madhav Jha'
+description: 'Quote in readme'
+
+runs:
+  using: node12
+  main: index.js
