@@ -6,8 +6,8 @@ Project description goes here.
 
 ## Meme of the Day
 
-### me_irl
-![Meme Image](https://i.redd.it/n82jv7qway5d1.png)
+### Time to go home, again 
+![Meme Image](https://i.redd.it/4oaih4cikf6d1.png)
 
 Updated on: [6/15/2024]
 
