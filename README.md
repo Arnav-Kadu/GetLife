@@ -6,10 +6,10 @@ Project description goes here.
 
 ## Meme of the Day
 
-### She sees me as I am. A wizard.
-![Meme Image](https://i.redd.it/s9xob0q7cr6d1.png)
+### Outstanding rizz
+![Meme Image](https://i.redd.it/2ottsl2lvn6d1.png)
 
-Updated on: [6/16/2024]
+Updated on: [6/17/2024]
 
 ## More Information
 
