@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### R/Memes now has fewer rules!
-![Meme Image](https://i.redd.it/y2r4uhez26sc1.gif)
+### Hit the...you know the thing.
+![Meme Image](https://i.redd.it/lca9n57dzv6d1.png)
 
 Updated on: [6/18/2024]
