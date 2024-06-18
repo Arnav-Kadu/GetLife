@@ -6,10 +6,10 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Outstanding rizz
-![Meme Image](https://i.redd.it/2ottsl2lvn6d1.png)
+### This trope is stupid
+![Meme Image](https://i.redd.it/u3pdgm8og47d1.gif)
 
-Updated on: [6/17/2024]
+Updated on: [6/18/2024]
 
 ## More Information
 
