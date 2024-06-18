@@ -11,6 +11,3 @@ Project description goes here.
 
 Updated on: [6/18/2024]
 
-## More Information
-
-Additional project information goes here.
