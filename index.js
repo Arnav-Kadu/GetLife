@@ -36,10 +36,6 @@ Project description goes here.
 ![Meme Image](${data.url})
 
 Updated on: [${d}]
-
-## More Information
-
-Additional project information goes here.
                 `;
 
                 // Write the new content to README.md
