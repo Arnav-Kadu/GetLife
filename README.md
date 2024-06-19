@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Hit the...you know the thing.
-![Meme Image](https://i.redd.it/lca9n57dzv6d1.png)
+### me_irl
+![Meme Image](https://i.redd.it/otfc2joo367d1.png)
 
-Updated on: [6/18/2024]
+Updated on: [6/19/2024]
