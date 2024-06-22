@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### me_irl
-![Meme Image](https://i.redd.it/1fp7pbyq7j7d1.png)
+### You should stop existing boi...
+![Meme Image](https://i.redd.it/41ysdbmosu7d1.png)
 
-Updated on: [6/21/2024]
+Updated on: [6/22/2024]
