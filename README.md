@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### You should stop existing boi...
-![Meme Image](https://i.redd.it/41ysdbmosu7d1.png)
+### It's a win win
+![Meme Image](https://i.redd.it/w9ewzd8mhs7d1.png)
 
-Updated on: [6/22/2024]
+Updated on: [6/23/2024]
