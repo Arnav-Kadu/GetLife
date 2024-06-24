@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### It's a win win
-![Meme Image](https://i.redd.it/w9ewzd8mhs7d1.png)
+### The only correct usage
+![Meme Image](https://i.redd.it/wdo0umw0ax7d1.png)
 
-Updated on: [6/23/2024]
+Updated on: [6/24/2024]
