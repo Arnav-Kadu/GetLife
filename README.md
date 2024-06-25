@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### The only correct usage
-![Meme Image](https://i.redd.it/wdo0umw0ax7d1.png)
+### That musta hurt
+![Meme Image](https://i.redd.it/erwqn2sonk8d1.gif)
 
-Updated on: [6/24/2024]
+Updated on: [6/25/2024]
