@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### That musta hurt
-![Meme Image](https://i.redd.it/erwqn2sonk8d1.gif)
+### Spit on that thang
+![Meme Image](https://i.redd.it/86nckymoak8d1.gif)
 
-Updated on: [6/25/2024]
+Updated on: [6/26/2024]
