@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Spit on that thang
-![Meme Image](https://i.redd.it/86nckymoak8d1.gif)
+### I'm not afraid to speak the truth
+![Meme Image](https://i.redd.it/452wa1thkj8d1.png)
 
-Updated on: [6/26/2024]
+Updated on: [6/27/2024]
