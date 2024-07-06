@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Murica day
-![Meme Image](https://i.redd.it/fim6p774lkad1.gif)
+### me_irl
+![Meme Image](https://i.redd.it/krnas9jsrnad1.png)
 
-Updated on: [7/5/2024]
+Updated on: [7/6/2024]
