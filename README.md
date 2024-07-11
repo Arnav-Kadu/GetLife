@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### me_irl
-![Meme Image](https://i.imgur.com/lqIqBUu.png)
+### Hmmm, grass fed.
+![Meme Image](https://i.redd.it/bqy4e4eiimbd1.png)
 
-Updated on: [7/10/2024]
+Updated on: [7/11/2024]
