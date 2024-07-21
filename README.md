@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### You can put at least 7 joints on this, cheer up...
-![Meme Image](https://i.redd.it/0j3yarmr1idd1.png)
+### Mistakes were made
+![Meme Image](https://i.redd.it/enqch9ttmhdd1.gif)
 
-Updated on: [7/20/2024]
+Updated on: [7/21/2024]
