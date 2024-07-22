@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Mistakes were made
-![Meme Image](https://i.redd.it/enqch9ttmhdd1.gif)
+### It just works
+![Meme Image](https://i.redd.it/mkslmgf5vndd1.png)
 
-Updated on: [7/21/2024]
+Updated on: [7/22/2024]
