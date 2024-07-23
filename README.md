@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### It just works
-![Meme Image](https://i.redd.it/mkslmgf5vndd1.png)
+### These people scare me
+![Meme Image](https://i.redd.it/qe98obw3s3ed1.png)
 
-Updated on: [7/22/2024]
+Updated on: [7/23/2024]
