@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### These people scare me
-![Meme Image](https://i.redd.it/qe98obw3s3ed1.png)
+### Programming socks go brr
+![Meme Image](https://i.redd.it/o36o7x5dnaed1.png)
 
-Updated on: [7/23/2024]
+Updated on: [7/24/2024]
