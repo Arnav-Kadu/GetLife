@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### There was no toilet paper
-![Meme Image](https://i.redd.it/w2r93i0fafed1.png)
+### It’s not my fault tho
+![Meme Image](https://i.redd.it/gifihwp8rqed1.gif)
 
-Updated on: [7/25/2024]
+Updated on: [7/26/2024]
