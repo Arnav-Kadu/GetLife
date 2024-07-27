@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### It’s not my fault tho
-![Meme Image](https://i.redd.it/gifihwp8rqed1.gif)
+### me_irl
+![Meme Image](https://i.redd.it/spn2l1ob1oed1.png)
 
-Updated on: [7/26/2024]
+Updated on: [7/27/2024]
