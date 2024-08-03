@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### The most unfortunate name for a bread 
-![Meme Image](https://i.redd.it/be3yfach92gd1.png)
+### me_irl
+![Meme Image](https://i.redd.it/gny2bsb4o3gd1.png)
 
-Updated on: [8/2/2024]
+Updated on: [8/3/2024]
