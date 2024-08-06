@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### View it or delete the bookmark!
-![Meme Image](https://i.redd.it/5hbe90w9jmgd1.png)
+### Reality is what dad wants it to be.
+![Meme Image](https://i.redd.it/rf9if7l3regd1.png)
 
-Updated on: [8/5/2024]
+Updated on: [8/6/2024]
