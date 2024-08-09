@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### balanced as all things should be
-![Meme Image](https://i.redd.it/e28th7f30ahd1.png)
+### never again
+![Meme Image](https://i.redd.it/cal2erc0fihd1.png)
 
-Updated on: [8/8/2024]
+Updated on: [8/9/2024]
