@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### me_irl
-![Meme Image](https://i.redd.it/kk866450pxhd1.png)
+### Cheese 
+![Meme Image](https://i.redd.it/665ays8ad3id1.png)
 
-Updated on: [8/13/2024]
+Updated on: [8/14/2024]
