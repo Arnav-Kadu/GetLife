@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### There Is Always Next Time Guys
-![Meme Image](https://i.redd.it/8wtvx6qwvoid1.gif)
+### no phone privileges? guess I have to retire to my manse
+![Meme Image](https://i.redd.it/24e7od8zlvid1.png)
 
-Updated on: [8/15/2024]
+Updated on: [8/16/2024]
