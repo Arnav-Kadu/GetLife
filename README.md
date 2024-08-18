@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Japan don't know about Texas
-![Meme Image](https://i.redd.it/a85gtwgp0nid1.png)
+### Pure confusion
+![Meme Image](https://i.redd.it/lxgvsvyti7jd1.png)
 
-Updated on: [8/17/2024]
+Updated on: [8/18/2024]
