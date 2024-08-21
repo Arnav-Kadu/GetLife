@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### eltiT
-![Meme Image](https://i.redd.it/6v1t6vbothjd1.png)
+### Good luck
+![Meme Image](https://i.redd.it/cjigyrxfetjd1.gif)
 
-Updated on: [8/20/2024]
+Updated on: [8/21/2024]
