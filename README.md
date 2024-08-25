@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Strongman
-![Meme Image](https://i.redd.it/ruolgldmk8kd1.png)
+### as you are
+![Meme Image](https://i.redd.it/lxxzi3bvapkd1.png)
 
-Updated on: [8/24/2024]
+Updated on: [8/25/2024]
