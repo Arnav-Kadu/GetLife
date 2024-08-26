@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### as you are
-![Meme Image](https://i.redd.it/lxxzi3bvapkd1.png)
+### Oh rules for thee not for me
+![Meme Image](https://i.redd.it/2bgaqd50fhkd1.gif)
 
-Updated on: [8/25/2024]
+Updated on: [8/26/2024]
