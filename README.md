@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### there are only 2 vikings words I guess
-![Meme Image](https://i.redd.it/pk5sb4skoskd1.png)
+### Dance for dinner
+![Meme Image](https://i.redd.it/484743p5x9ld1.png)
 
-Updated on: [8/27/2024]
+Updated on: [8/28/2024]
