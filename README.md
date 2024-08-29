@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Dance for dinner
-![Meme Image](https://i.redd.it/484743p5x9ld1.png)
+### me_irl
+![Meme Image](https://i.redd.it/ax539ry48fld1.gif)
 
-Updated on: [8/28/2024]
+Updated on: [8/29/2024]
