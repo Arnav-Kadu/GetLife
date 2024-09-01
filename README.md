@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### me_irl
-![Meme Image](https://i.redd.it/zcg7dy82qsld1.png)
+### Oh How the Mighty Have Fallen
+![Meme Image](https://i.redd.it/47ges4doynld1.png)
 
-Updated on: [8/31/2024]
+Updated on: [9/1/2024]
