@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### They are going to plant some trees
-![Meme Image](https://i.redd.it/9gvt6m3dx8od1.png)
+### The best part was saying Elon Musk tweets
+![Meme Image](https://i.imgur.com/hr8LROP.png)
 
-Updated on: [9/12/2024]
+Updated on: [9/13/2024]
