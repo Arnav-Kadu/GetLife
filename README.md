@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### The best part was saying Elon Musk tweets
-![Meme Image](https://i.imgur.com/hr8LROP.png)
+### I hate those fake ahh covers 
+![Meme Image](https://i.redd.it/anzqzic6okod1.png)
 
-Updated on: [9/13/2024]
+Updated on: [9/14/2024]
