@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### I hate those fake ahh covers 
-![Meme Image](https://i.redd.it/anzqzic6okod1.png)
+### Tis a jokey joke.
+![Meme Image](https://i.redd.it/1rq4b6yg5hod1.png)
 
-Updated on: [9/14/2024]
+Updated on: [9/15/2024]
