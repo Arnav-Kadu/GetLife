@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Me_irl
-![Meme Image](https://i.redd.it/qywlhdp2bbod1.png)
+### Brother clean it
+![Meme Image](https://i.redd.it/shpo0cmuc9pd1.gif)
 
-Updated on: [9/16/2024]
+Updated on: [9/17/2024]
