@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Brother clean it
-![Meme Image](https://i.redd.it/shpo0cmuc9pd1.gif)
+### you know its over when the other person says this
+![Meme Image](https://i.redd.it/fuepypjfe8pd1.png)
 
-Updated on: [9/17/2024]
+Updated on: [9/18/2024]
