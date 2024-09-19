@@ -6,7 +6,8 @@ Project description goes here.
 
 ## Meme of the Day
 
-### you know its over when the other person says this
-![Meme Image](https://i.redd.it/fuepypjfe8pd1.png)
+### The monster is out now 😂
 
-Updated on: [9/18/2024]
+![Meme Image](https://i.redd.it/xh6vcmz8khpd1.png)
+
+Updated on: [9/19/2024]
