@@ -6,8 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### The monster is out now 😂
+### me_irl
+![Meme Image](https://clubsall.com/posts/meirl-eHhXr.jpg)
 
-![Meme Image](https://i.redd.it/xh6vcmz8khpd1.png)
-
-Updated on: [9/19/2024]
+Updated on: [9/20/2024]
