@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### me_irl
-![Meme Image](https://clubsall.com/posts/meirl-eHhXr.jpg)
+### Cyclists
+![Meme Image](https://i.redd.it/v5xoxxdxlzpd1.png)
 
-Updated on: [9/20/2024]
+Updated on: [9/21/2024]
