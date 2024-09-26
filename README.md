@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### How Sour Can You Get?
-![Meme Image](https://i.redd.it/p3i1u9wwceqd1.png)
+### Only child
+![Meme Image](https://i.redd.it/dz1bb1qin1rd1.png)
 
-Updated on: [9/25/2024]
+Updated on: [9/26/2024]
