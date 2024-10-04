@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Don't be like sun
-![Meme Image](https://i.redd.it/jdqugqzq8esd1.png)
+### What's love got to do, got to do with it?
+![Meme Image](https://i.redd.it/mcr6yh3yrcsd1.png)
 
-Updated on: [10/3/2024]
+Updated on: [10/4/2024]
