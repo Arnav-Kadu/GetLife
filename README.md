@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Why bother commenting?
-![Meme Image](https://i.redd.it/gnz38jw1npsd1.png)
+### me irl
+![Meme Image](https://i.redd.it/meiuclmzmdsd1.png)
 
-Updated on: [10/5/2024]
+Updated on: [10/6/2024]
