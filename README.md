@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### me_irl
-![Meme Image](https://i.redd.it/rgq7ihfdcetd1.png)
+### With great mechanic comes great lawsuit
+![Meme Image](https://i.redd.it/k5o4eiogqltd1.png)
 
-Updated on: [10/8/2024]
+Updated on: [10/9/2024]
