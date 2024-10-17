@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### "Ah geez, we didn't make it in time"
-![Meme Image](https://i.redd.it/u2k5bswl0pud1.png)
+### it's over already
+![Meme Image](https://i.redd.it/c7r6qu7esoud1.gif)
 
-Updated on: [10/16/2024]
+Updated on: [10/17/2024]
