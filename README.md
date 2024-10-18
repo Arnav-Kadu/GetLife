@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### it's over already
-![Meme Image](https://i.redd.it/c7r6qu7esoud1.gif)
+### Tadaaaa
+![Meme Image](https://i.redd.it/tlx4ebyg6evd1.png)
 
-Updated on: [10/17/2024]
+Updated on: [10/18/2024]
