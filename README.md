@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Tadaaaa
-![Meme Image](https://i.redd.it/tlx4ebyg6evd1.png)
+### Me_irl
+![Meme Image](https://i.redd.it/vil5hw6eiivd1.png)
 
-Updated on: [10/18/2024]
+Updated on: [10/19/2024]
