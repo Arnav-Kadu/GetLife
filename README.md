@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### "Dad?"
-![Meme Image](https://i.redd.it/b39jt2qxtdxd1.png)
+### me_irl
+![Meme Image](https://i.redd.it/idlhsphbdbxd1.png)
 
-Updated on: [10/29/2024]
+Updated on: [10/30/2024]
