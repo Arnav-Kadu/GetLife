@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### me_irl
-![Meme Image](https://i.redd.it/idlhsphbdbxd1.png)
+### It is I, Petah Griffith
+![Meme Image](https://i.redd.it/wddcrkrxnvxd1.png)
 
-Updated on: [10/30/2024]
+Updated on: [10/31/2024]
