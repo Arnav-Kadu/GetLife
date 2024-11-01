@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### It is I, Petah Griffith
-![Meme Image](https://i.redd.it/wddcrkrxnvxd1.png)
+### I guess they forgot 
+![Meme Image](https://i.redd.it/mfwvtw9mb6yd1.gif)
 
-Updated on: [10/31/2024]
+Updated on: [11/1/2024]
