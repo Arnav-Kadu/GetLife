@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### I guess they forgot 
-![Meme Image](https://i.redd.it/mfwvtw9mb6yd1.gif)
+### Average gamer moment 
+![Meme Image](https://i.redd.it/d6d1bddf5byd1.gif)
 
-Updated on: [11/1/2024]
+Updated on: [11/2/2024]
