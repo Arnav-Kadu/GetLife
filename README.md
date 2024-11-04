@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Nice try Mister Elon
-![Meme Image](https://i.redd.it/grn1culpfkyd1.png)
+### Why... just why
+![Meme Image](https://i.redd.it/64lae0ty0jyd1.gif)
 
-Updated on: [11/3/2024]
+Updated on: [11/4/2024]
