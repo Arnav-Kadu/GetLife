@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### What did I leave open...
-![Meme Image](https://i.redd.it/62eqmrb9duyd1.gif)
+### Me_irl
+![Meme Image](https://i.redd.it/9vhr3g8vx5zd1.png)
 
-Updated on: [11/6/2024]
+Updated on: [11/7/2024]
