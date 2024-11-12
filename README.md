@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### She must be full of life
-![Meme Image](https://i.redd.it/yycouv5k310e1.png)
+### me_irl
+![Meme Image](https://i.redd.it/089hbj99q50e1.png)
 
-Updated on: [11/11/2024]
+Updated on: [11/12/2024]
