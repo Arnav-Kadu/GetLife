@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### The way he speaks is so elegant... Wait a second..!?
-![Meme Image](https://i.redd.it/vzjd6ub3gp0e1.gif)
+### Me_irl
+![Meme Image](https://i.redd.it/ohoe592dwo0e1.png)
 
-Updated on: [11/14/2024]
+Updated on: [11/15/2024]
