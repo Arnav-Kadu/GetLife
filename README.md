@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Was tempted to do Steve Harvey...  
-![Meme Image](https://i.redd.it/xez3gyj4oa1e1.png)
+### me_irl
+![Meme Image](https://i.redd.it/cm17kdzfa91e1.png)
 
-Updated on: [11/17/2024]
+Updated on: [11/18/2024]
