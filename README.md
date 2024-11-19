@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### me_irl
-![Meme Image](https://i.redd.it/cm17kdzfa91e1.png)
+### Catch me if you can.
+![Meme Image](https://i.redd.it/zlib01roti1e1.gif)
 
-Updated on: [11/18/2024]
+Updated on: [11/19/2024]
