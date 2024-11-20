@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Catch me if you can.
-![Meme Image](https://i.redd.it/zlib01roti1e1.gif)
+### Fake arranged marriage CVs be like
+![Meme Image](https://i.redd.it/lh3g2maxax1e1.png)
 
-Updated on: [11/19/2024]
+Updated on: [11/20/2024]
