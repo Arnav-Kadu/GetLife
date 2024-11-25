@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Literally me
-![Meme Image](https://i.redd.it/dho5a9fpqp2e1.png)
+### Information transfer failed
+![Meme Image](https://i.redd.it/qwqq0udmnx2e1.gif)
 
-Updated on: [11/24/2024]
+Updated on: [11/25/2024]
