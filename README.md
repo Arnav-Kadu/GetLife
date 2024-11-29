@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### cats cats cats
-![Meme Image](https://i.redd.it/1m3d57plye3e1.png)
+### me_irl
+![Meme Image](https://i.redd.it/c43pe4m9h83e1.png)
 
-Updated on: [11/28/2024]
+Updated on: [11/29/2024]
