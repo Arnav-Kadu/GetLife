@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Say my name-
-![Meme Image](https://i.redd.it/25azr0cedf4e1.png)
+### Americans will use anything to measure other than the metric system
+![Meme Image](https://i.redd.it/m8d0iwklpo4e1.gif)
 
-Updated on: [12/3/2024]
+Updated on: [12/4/2024]
