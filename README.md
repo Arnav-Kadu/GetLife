@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Americans will use anything to measure other than the metric system
-![Meme Image](https://i.redd.it/m8d0iwklpo4e1.gif)
+### Womp womp
+![Meme Image](https://i.redd.it/fslt24mqhp4e1.png)
 
-Updated on: [12/4/2024]
+Updated on: [12/5/2024]
