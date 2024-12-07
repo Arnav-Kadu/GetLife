@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### I would never violate the rules
-![Meme Image](https://i.redd.it/efie1t9aow4e1.png)
+### Now that's a wee-mote 
+![Meme Image](https://i.redd.it/5frj7si0c85e1.png)
 
-Updated on: [12/6/2024]
+Updated on: [12/7/2024]
