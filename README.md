@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Corporate tribalism
-![Meme Image](https://i.redd.it/t52s9jcr4g5e1.png)
+### True story 
+![Meme Image](https://i.redd.it/lj6rs5i8ek5e1.png)
 
-Updated on: [12/8/2024]
+Updated on: [12/9/2024]
