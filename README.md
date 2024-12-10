@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### True story 
-![Meme Image](https://i.redd.it/lj6rs5i8ek5e1.png)
+### Literally me:
+![Meme Image](https://i.redd.it/n6zyek0van5e1.png)
 
-Updated on: [12/9/2024]
+Updated on: [12/10/2024]
