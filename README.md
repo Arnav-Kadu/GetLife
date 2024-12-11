@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Literally me:
-![Meme Image](https://i.redd.it/n6zyek0van5e1.png)
+### Ruh roh
+![Meme Image](https://i.redd.it/3ga7r6mai26e1.png)
 
-Updated on: [12/10/2024]
+Updated on: [12/11/2024]
