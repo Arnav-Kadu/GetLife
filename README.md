@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### if we cannott get it back by asking - we will by force.
-![Meme Image](https://i.redd.it/kcajv82ffd6e1.png)
+### The never ending cycle
+![Meme Image](https://i.redd.it/9170cidj9t6e1.gif)
 
-Updated on: [12/14/2024]
+Updated on: [12/15/2024]
