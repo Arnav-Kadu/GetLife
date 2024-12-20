@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### me_irl
-![Meme Image](https://i.redd.it/zmy0kct6l07e1.png)
+### Speak for yourself
+![Meme Image](https://i.redd.it/ltqhlo4fzs7e1.png)
 
-Updated on: [12/18/2024]
+Updated on: [12/20/2024]
