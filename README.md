@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Beefy
-![Meme Image](https://i.redd.it/5ftk2jes3y7e1.png)
+### Stay safe out there this Christmas 
+![Meme Image](https://i.redd.it/4tfstb1cp98e1.gif)
 
-Updated on: [12/21/2024]
+Updated on: [12/22/2024]
