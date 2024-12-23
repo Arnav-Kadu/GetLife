@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Stay safe out there this Christmas 
-![Meme Image](https://i.redd.it/4tfstb1cp98e1.gif)
+### Gonna blow his mind when I switch the orientation to portrait...
+![Meme Image](https://i.redd.it/nk2ab6izrb8e1.gif)
 
-Updated on: [12/22/2024]
+Updated on: [12/23/2024]
