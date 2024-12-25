@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Gotta respect the hustle
-![Meme Image](https://i.redd.it/9ui05hv8zj8e1.gif)
+### me irl
+![Meme Image](https://i.redd.it/s4n07i6frn8e1.png)
 
-Updated on: [12/24/2024]
+Updated on: [12/25/2024]
