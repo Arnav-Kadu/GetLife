@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### me irl
-![Meme Image](https://i.redd.it/s4n07i6frn8e1.png)
+### Oh yeah and also there's a black character from space
+![Meme Image](https://i.redd.it/juadttw6l19e1.png)
 
-Updated on: [12/25/2024]
+Updated on: [12/26/2024]
