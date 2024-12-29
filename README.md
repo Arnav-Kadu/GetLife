@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Everything looks important
-![Meme Image](https://i.redd.it/at65nbbfgf9e1.png)
+### me_irl
+![Meme Image](https://i.redd.it/07oxc493yf9e1.png)
 
-Updated on: [12/28/2024]
+Updated on: [12/29/2024]
