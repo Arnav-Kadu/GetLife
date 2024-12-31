@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Me_irl
-![Meme Image](https://i.redd.it/afmrrxn0hv9e1.png)
+### Be glad you can't smell it.
+![Meme Image](https://i.redd.it/2tk9u69g7w9e1.png)
 
-Updated on: [12/30/2024]
+Updated on: [12/31/2024]
