@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### forever unclean
-![Meme Image](https://i.redd.it/yfi0lgky99ae1.png)
+### better luck next year
+![Meme Image](https://i.redd.it/hydalvxpifae1.png)
 
-Updated on: [1/1/2025]
+Updated on: [1/2/2025]
