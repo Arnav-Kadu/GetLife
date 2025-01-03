@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### better luck next year
-![Meme Image](https://i.redd.it/hydalvxpifae1.png)
+### It does be like that 
+![Meme Image](https://i.redd.it/u1zfzgpqfiae1.gif)
 
-Updated on: [1/2/2025]
+Updated on: [1/3/2025]
