@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### It does be like that 
-![Meme Image](https://i.redd.it/u1zfzgpqfiae1.gif)
+### N‬ew Ye‬ar, Ne‬w R‬ecipe.
+![Meme Image](https://i.redd.it/5u2zyd8w8sae1.png)
 
-Updated on: [1/3/2025]
+Updated on: [1/4/2025]
