@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### N‬ew Ye‬ar, Ne‬w R‬ecipe.
-![Meme Image](https://i.redd.it/5u2zyd8w8sae1.png)
+### When I can't be bothered to make anything for lunch
+![Meme Image](https://i.redd.it/h8tfc5vs0uae1.png)
 
-Updated on: [1/4/2025]
+Updated on: [1/5/2025]
