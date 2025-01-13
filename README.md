@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Ladies and gentlemen…
-![Meme Image](https://i.redd.it/za0dkhaeycce1.gif)
+### me_irl
+![Meme Image](https://i.redd.it/pi26gmkmuece1.png)
 
-Updated on: [1/12/2025]
+Updated on: [1/13/2025]
