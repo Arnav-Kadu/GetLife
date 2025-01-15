@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### What are the odds?
-![Meme Image](https://i.redd.it/dbhwd3y0itce1.gif)
+### me_irl
+![Meme Image](https://i.redd.it/shvzntr1arce1.png)
 
-Updated on: [1/14/2025]
+Updated on: [1/15/2025]
