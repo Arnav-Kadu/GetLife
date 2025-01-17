@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Hello world 
-![Meme Image](https://i.redd.it/f95yvfm7b6de1.gif)
+### Me_irl
+![Meme Image](https://i.redd.it/u9kd2xymeyce1.png)
 
-Updated on: [1/16/2025]
+Updated on: [1/17/2025]
