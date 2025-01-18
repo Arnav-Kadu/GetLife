@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Me_irl
-![Meme Image](https://i.redd.it/u9kd2xymeyce1.png)
+### Step sis moment.
+![Meme Image](https://i.redd.it/ncn6xhodqede1.png)
 
-Updated on: [1/17/2025]
+Updated on: [1/18/2025]
