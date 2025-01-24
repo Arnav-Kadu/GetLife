@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### My mid 30s lower back is envious.
-![Meme Image](https://i.redd.it/11ws4ztxriee1.png)
+### me_irl
+![Meme Image](https://i.redd.it/lt9rdz5vqtee1.png)
 
-Updated on: [1/23/2025]
+Updated on: [1/24/2025]
