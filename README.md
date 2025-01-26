@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### me_irl
-![Meme Image](https://i.redd.it/wax2yg5c3ree1.png)
+### A creative, uhhh...you know the thing.
+![Meme Image](https://i.redd.it/eokhi4zht2fe1.png)
 
-Updated on: [1/25/2025]
+Updated on: [1/26/2025]
