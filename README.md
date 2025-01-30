@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### They are THE BEST.
-![Meme Image](https://i.redd.it/5vo0ttcerjfe1.png)
+### me_irl
+![Meme Image](https://i.redd.it/gap6al2mxvfe1.png)
 
-Updated on: [1/29/2025]
+Updated on: [1/30/2025]
