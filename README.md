@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### me_irl
-![Meme Image](https://i.redd.it/gap6al2mxvfe1.png)
+### Behold: The 3 Trillion Dollar Yoink!!
+![Meme Image](https://i.redd.it/q09hrqw4kpfe1.gif)
 
-Updated on: [1/30/2025]
+Updated on: [1/31/2025]
