@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### me_irl
-![Meme Image](https://i.redd.it/2s0pjmd03gge1.png)
+### Boy, that escalated quickly...
+![Meme Image](https://i.redd.it/p435yhma3sge1.gif)
 
-Updated on: [2/2/2025]
+Updated on: [2/3/2025]
