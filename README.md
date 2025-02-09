@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### He gotta be in everything
-![Meme Image](https://i.redd.it/2uf2oihuwkhe1.gif)
+### Me_irl
+![Meme Image](https://i.redd.it/bqboyrzpqthe1.png)
 
-Updated on: [2/8/2025]
+Updated on: [2/9/2025]
