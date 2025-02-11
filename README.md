@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Isn’t that so helpful
-![Meme Image](https://i.redd.it/kfl2z48eauhe1.gif)
+### Redditors being Redditors
+![Meme Image](https://i.redd.it/r1ywqkbq0bie1.png)
 
-Updated on: [2/10/2025]
+Updated on: [2/11/2025]
