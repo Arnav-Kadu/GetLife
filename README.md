@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### How was your weekend?
-![Meme Image](https://i.redd.it/ewqcs9jrufie1.png)
+### Everybody should celebrate, even Reddit users.
+![Meme Image](https://i.redd.it/rt17u52q2oie1.png)
 
-Updated on: [2/12/2025]
+Updated on: [2/13/2025]
