@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Special Relationship
-![Meme Image](https://i.redd.it/huwq2fbehdje1.png)
+### How dem corny Reddit people feel after recycling the same 7 meme templates for 5 years
+![Meme Image](https://i.redd.it/bviaff179lje1.gif)
 
-Updated on: [2/16/2025]
+Updated on: [2/17/2025]
