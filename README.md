@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### How dem corny Reddit people feel after recycling the same 7 meme templates for 5 years
-![Meme Image](https://i.redd.it/bviaff179lje1.gif)
+### me_irl
+![Meme Image](https://i.redd.it/dfenojp14hje1.png)
 
-Updated on: [2/17/2025]
+Updated on: [2/18/2025]
