@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Me_irl
-![Meme Image](https://i.redd.it/iv5ot1jnsvje1.png)
+### Internet was wild back then
+![Meme Image](https://i.redd.it/vlyf62lzbhke1.gif)
 
-Updated on: [2/21/2025]
+Updated on: [2/22/2025]
