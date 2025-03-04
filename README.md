@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### me_irl
-![Meme Image](https://i.redd.it/uf3ea3j9hole1.png)
+### The better skibidi, before the dark times
+![Meme Image](https://i.redd.it/whnj6dbw2jme1.png)
 
-Updated on: [3/3/2025]
+Updated on: [3/4/2025]
