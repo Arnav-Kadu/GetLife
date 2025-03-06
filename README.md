@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Me watching a movie
-![Meme Image](https://i.redd.it/4m6aayz4nfme1.png)
+### We musn't run away
+![Meme Image](https://i.redd.it/wyp9e70a3jme1.png)
 
-Updated on: [3/5/2025]
+Updated on: [3/6/2025]
