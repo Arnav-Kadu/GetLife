@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### what was up with that?
-![Meme Image](https://i.redd.it/okahabka6joe1.png)
+### me_irl
+![Meme Image](https://i.redd.it/3e27fglil9oe1.png)
 
-Updated on: [3/14/2025]
+Updated on: [3/15/2025]
