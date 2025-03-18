@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Exhaust.
-![Meme Image](https://i.redd.it/zctv9ikvfuoe1.png)
+### me_irl
+![Meme Image](https://i.redd.it/j3h94cd7ccpe1.png)
 
-Updated on: [3/17/2025]
+Updated on: [3/18/2025]
