@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### me_irl
-![Meme Image](https://i.redd.it/tlmo43s6m2qe1.png)
+### Reddit is a drug
+![Meme Image](https://i.redd.it/xcz3ao4osgqe1.png)
 
-Updated on: [3/23/2025]
+Updated on: [3/24/2025]
