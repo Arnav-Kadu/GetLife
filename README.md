@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### "Your 21st what?"
-![Meme Image](https://i.redd.it/yzhbelrqyiqe1.png)
+### me_irl
+![Meme Image](https://i.redd.it/opb9docvllqe1.png)
 
-Updated on: [3/25/2025]
+Updated on: [3/26/2025]
