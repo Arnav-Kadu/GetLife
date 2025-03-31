@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Romanians Improving Anything Be Like
-![Meme Image](https://i.redd.it/7091yripdmre1.png)
+### yeah yeah wait what
+![Meme Image](https://i.redd.it/kpqt6ltvnure1.png)
 
-Updated on: [3/30/2025]
+Updated on: [3/31/2025]
