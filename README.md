@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### yeah yeah wait what
-![Meme Image](https://i.redd.it/kpqt6ltvnure1.png)
+### Me_irl
+![Meme Image](https://i.redd.it/komfn8egrxre1.png)
 
-Updated on: [3/31/2025]
+Updated on: [4/1/2025]
