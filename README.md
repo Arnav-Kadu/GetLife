@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### me_irl
-![Meme Image](https://i.redd.it/rye0lprgl8se1.png)
+### A fella will do anything except go to therapy
+![Meme Image](https://i.redd.it/lbk5n1gnldse1.png)
 
-Updated on: [4/2/2025]
+Updated on: [4/3/2025]
