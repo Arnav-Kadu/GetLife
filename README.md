@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### A fella will do anything except go to therapy
-![Meme Image](https://i.redd.it/lbk5n1gnldse1.png)
+### Do yall really trust each other though?
+![Meme Image](https://i.imgflip.com/9pn6h3.jpg)
 
-Updated on: [4/3/2025]
+Updated on: [4/4/2025]
