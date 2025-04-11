@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Would this count as a cat basket?
-![Meme Image](https://i.redd.it/j0hmchfirute1.png)
+### Me_irl
+![Meme Image](https://i.redd.it/xf9zosbt80ue1.png)
 
-Updated on: [4/10/2025]
+Updated on: [4/11/2025]
