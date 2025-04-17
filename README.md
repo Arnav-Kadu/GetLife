@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Tenor &gt;&gt;&gt; Giphy
-![Meme Image](https://i.redd.it/fzj33xin3zue1.png)
+### Me_irl
+![Meme Image](https://i.redd.it/e9m42sgk1wue1.png)
 
-Updated on: [4/16/2025]
+Updated on: [4/17/2025]
