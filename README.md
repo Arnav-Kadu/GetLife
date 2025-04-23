@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Worst kept secret
-![Meme Image](https://i.redd.it/etkicomy79we1.png)
+### April 20 is a very special day
+![Meme Image](https://i.redd.it/l0tslsxur1we1.png)
 
-Updated on: [4/22/2025]
+Updated on: [4/23/2025]
