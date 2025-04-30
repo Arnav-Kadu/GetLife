@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### It's getting kind of annoying
-![Meme Image](https://i.redd.it/cr1kgerrgfxe1.png)
+### "I don't want to hear it"
+![Meme Image](https://i.redd.it/k86bkvdc8oxe1.png)
 
-Updated on: [4/29/2025]
+Updated on: [4/30/2025]
