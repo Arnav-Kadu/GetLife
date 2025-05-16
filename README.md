@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### One for the gamers lol
-![Meme Image](https://i.redd.it/8mf467ap2t0f1.png)
+### me_irl
+![Meme Image](https://i.redd.it/q9zi3b1m3m0f1.png)
 
-Updated on: [5/15/2025]
+Updated on: [5/16/2025]
