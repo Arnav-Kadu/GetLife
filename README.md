@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Will serve a special space in my memories
-![Meme Image](https://i.redd.it/jpcb052hjr1f1.png)
+### PSA America!
+![Meme Image](https://i.redd.it/kcod1lulf52f1.png)
 
-Updated on: [5/21/2025]
+Updated on: [5/22/2025]
