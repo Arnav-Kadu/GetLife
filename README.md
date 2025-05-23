@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### PSA America!
-![Meme Image](https://i.redd.it/kcod1lulf52f1.png)
+### Safety first!
+![Meme Image](https://i.redd.it/yg7g9ddhe72f1.png)
 
-Updated on: [5/22/2025]
+Updated on: [5/23/2025]
