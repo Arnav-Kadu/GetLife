@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### awww that's adorable
-![Meme Image](https://i.redd.it/1jgfhw7hyv3f1.gif)
+### It has extra seasoning
+![Meme Image](https://i.redd.it/zroebp4vi54f1.png)
 
-Updated on: [5/31/2025]
+Updated on: [6/1/2025]
