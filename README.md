@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### It has extra seasoning
-![Meme Image](https://i.redd.it/zroebp4vi54f1.png)
+### me_irl
+![Meme Image](https://i.redd.it/4n7tu5pbob4f1.png)
 
-Updated on: [6/1/2025]
+Updated on: [6/2/2025]
