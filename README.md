@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### me irl
-![Meme Image](https://i.redd.it/e95eiacw6l4f1.png)
+### living the american dream
+![Meme Image](https://i.redd.it/sxyg6ozujj4f1.png)
 
-Updated on: [6/3/2025]
+Updated on: [6/4/2025]
