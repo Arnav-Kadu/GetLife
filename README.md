@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### living the american dream
-![Meme Image](https://i.redd.it/sxyg6ozujj4f1.png)
+### Skills
+![Meme Image](https://i.redd.it/sj9yahfnai4f1.gif)
 
-Updated on: [6/4/2025]
+Updated on: [6/5/2025]
