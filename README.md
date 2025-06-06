@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Skills
-![Meme Image](https://i.redd.it/sj9yahfnai4f1.gif)
+### Me irl
+![Meme Image](https://i.redd.it/dzugx59zm45f1.png)
 
-Updated on: [6/5/2025]
+Updated on: [6/6/2025]
