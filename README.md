@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Me irl
-![Meme Image](https://i.redd.it/dzugx59zm45f1.png)
+### beep boop
+![Meme Image](https://i.redd.it/e4jrhh4erq4f1.gif)
 
-Updated on: [6/6/2025]
+Updated on: [6/7/2025]
