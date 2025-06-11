@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Pokemon battle
-![Meme Image](https://i.redd.it/zk8q89z7ny5f1.png)
+### For the community, by the community, to the community.
+![Meme Image](https://i.redd.it/8joepp2sh56f1.png)
 
-Updated on: [6/10/2025]
+Updated on: [6/11/2025]
