@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Look. Hear me out. Potential Compromise?
-![Meme Image](https://i.redd.it/8o5z5rzejk6f1.png)
+### I hate them both
+![Meme Image](https://i.redd.it/cok5b2phqr6f1.png)
 
-Updated on: [6/14/2025]
+Updated on: [6/15/2025]
