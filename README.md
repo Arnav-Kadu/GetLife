@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Im her Daddy now
-![Meme Image](https://i.redd.it/m1n4plb89h7f1.gif)
+### Me irl
+![Meme Image](https://i.redd.it/mz2emzdlsp7f1.png)
 
-Updated on: [6/19/2025]
+Updated on: [6/20/2025]
