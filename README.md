@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Me irl
-![Meme Image](https://i.redd.it/mz2emzdlsp7f1.png)
+### Big Brian brain moment
+![Meme Image](https://i.redd.it/zrfcookwx58f1.png)
 
-Updated on: [6/20/2025]
+Updated on: [6/21/2025]
