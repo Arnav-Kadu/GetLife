@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### It happens everytime
-![Meme Image](https://i.redd.it/q99vfdv4w58f1.gif)
+### 1080p resolution
+![Meme Image](https://i.redd.it/t9ulqkh91h8f1.png)
 
-Updated on: [6/22/2025]
+Updated on: [6/23/2025]
