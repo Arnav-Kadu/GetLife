@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### yes, my cousin is really, really fat
-![Meme Image](https://i.redd.it/1j2d8yekvv8f1.png)
+### me_irl
+![Meme Image](https://i.redd.it/mkvl9use2t8f1.png)
 
-Updated on: [6/25/2025]
+Updated on: [6/26/2025]
