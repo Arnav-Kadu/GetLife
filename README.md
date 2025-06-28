@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### A small price to pay
-![Meme Image](https://i.redd.it/n14u8gcl349f1.gif)
+### me_irl
+![Meme Image](https://i.redd.it/brwofal9px8f1.png)
 
-Updated on: [6/27/2025]
+Updated on: [6/28/2025]
