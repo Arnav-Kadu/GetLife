@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### I can't wish for love, so
-![Meme Image](https://i.redd.it/nyi2fx6ofu9f1.gif)
+### me_irl
+![Meme Image](https://i.redd.it/cy9p0npifu9f1.png)
 
-Updated on: [6/30/2025]
+Updated on: [7/1/2025]
