@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### literally every movie
-![Meme Image](https://i.redd.it/pw4bhx4blfbf1.png)
+### Suck it up and pull yourself up by your bootstraps
+![Meme Image](https://i.redd.it/u2i9p14osnbf1.png)
 
-Updated on: [7/8/2025]
+Updated on: [7/9/2025]
