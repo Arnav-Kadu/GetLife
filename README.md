@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### No need to thank me
-![Meme Image](https://i.redd.it/vwv9fgmmh2cf1.gif)
+### Me irl
+![Meme Image](https://i.redd.it/2cd6z2gj4acf1.png)
 
-Updated on: [7/11/2025]
+Updated on: [7/12/2025]
