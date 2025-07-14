@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Well shit
-![Meme Image](https://i.redd.it/kjqesf6qwgcf1.png)
+### I aim to please
+![Meme Image](https://i.redd.it/upr5nkh9kacf1.gif)
 
-Updated on: [7/13/2025]
+Updated on: [7/14/2025]
