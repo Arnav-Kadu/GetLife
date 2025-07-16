@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### i just need some copium
-![Meme Image](https://i.redd.it/bt67n4x12tcf1.png)
+### me irl
+![Meme Image](https://i.redd.it/wvptiahrdxcf1.png)
 
-Updated on: [7/15/2025]
+Updated on: [7/16/2025]
