@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### We both failing this one
-![Meme Image](https://i.redd.it/tlnf6oqqa3df1.png)
+### a sight to behold
+![Meme Image](https://i.redd.it/ap5au55ighdf1.gif)
 
-Updated on: [7/17/2025]
+Updated on: [7/18/2025]
