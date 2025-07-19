@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### a sight to behold
-![Meme Image](https://i.redd.it/ap5au55ighdf1.gif)
+### me_irl
+![Meme Image](https://i.redd.it/9bptz35h0ldf1.png)
 
-Updated on: [7/18/2025]
+Updated on: [7/19/2025]
