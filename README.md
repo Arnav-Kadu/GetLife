@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### me_irl
-![Meme Image](https://i.redd.it/ywzvteif2mef1.png)
+### He can shoot his shot now
+![Meme Image](https://i.redd.it/z6m40b7x1uef1.gif)
 
-Updated on: [7/24/2025]
+Updated on: [7/25/2025]
