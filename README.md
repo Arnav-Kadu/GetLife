@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Thought I'd post my first meme as a contribution to this subreddit.
-![Meme Image](https://i.redd.it/n5t6moqvx7ff1.png)
+### It do be like that
+![Meme Image](https://i.redd.it/32n39rewndff1.gif)
 
-Updated on: [7/27/2025]
+Updated on: [7/28/2025]
