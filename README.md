@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### I feel sorry for the people of the UK.
-![Meme Image](https://i.redd.it/9l7f5ghaz1ff1.png)
+### Thought i would drop this instead of a P320
+![Meme Image](https://i.redd.it/uqvoao263vff1.png)
 
-Updated on: [7/29/2025]
+Updated on: [7/30/2025]
