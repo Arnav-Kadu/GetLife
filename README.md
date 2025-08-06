@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Mi scousi
-![Meme Image](https://i.redd.it/w49gez76z1hf1.png)
+### Me_irl
+![Meme Image](https://i.redd.it/732hut8nl0hf1.png)
 
-Updated on: [8/5/2025]
+Updated on: [8/6/2025]
