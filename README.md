@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### I have to squint really hard for my eyes to adjust
-![Meme Image](https://i.redd.it/w8anilzy2uhf1.gif)
+### Lesser of two evils
+![Meme Image](https://i.redd.it/6hav5nppx2if1.png)
 
-Updated on: [8/9/2025]
+Updated on: [8/10/2025]
