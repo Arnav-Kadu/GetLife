@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Huge difference
-![Meme Image](https://i.redd.it/vvz7hozunmhf1.png)
+### Online IQ tests should prob subtract ten by default.
+![Meme Image](https://i.redd.it/6l9231wx6fif1.png)
 
-Updated on: [8/11/2025]
+Updated on: [8/12/2025]
