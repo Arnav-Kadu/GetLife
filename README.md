@@ -6,7 +6,7 @@ Project description goes here.
 
 ## Meme of the Day
 
-### Online IQ tests should prob subtract ten by default.
-![Meme Image](https://i.redd.it/6l9231wx6fif1.png)
+### I’d be more surprised if this didn’t happen.
+![Meme Image](https://i.redd.it/lz6gdj9bogif1.gif)
 
-Updated on: [8/12/2025]
+Updated on: [8/13/2025]
